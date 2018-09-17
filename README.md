@@ -11,8 +11,6 @@ This repository contains the instructions and learning materials associated with
   * What are the key features of Declarative Pipelines?
   * How do you create multibranch pipelines?
   
-A PDF version of the presentation that accompanies this workshop can be found here: [CD-Acceleration-with-CloudBees-Workshop.pdf](CD-Acceleration-with-CloudBees-Workshop.pdf)
-
 To get started goto the [**Set-up Instructions**](Setup.md).
 
 **The exercises covered in the workshop are available at the following links:**
